@@ -133,11 +133,8 @@ Python • FastAPI • MERN Stack • LLMs • RAG • AI Agents
 - ✅ Crack AI Software Engineer Role
 - ## 🤝 Connect With Me
 
-[GitHub](https://github.com/maibubhukya)
+GitHub-https://github.com/maibubhukya
 
 LinkedIn-https://www.linkedin.com/in/maibu-bhukya-034915343
 
 Email-bhukyamaibu98@gmail.com
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/maibubhukya/maibubhukya/output/github-contribution-grid-snake.svg)
