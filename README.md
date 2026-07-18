@@ -25,16 +25,64 @@ Python • FastAPI • MERN Stack • LLMs • RAG • AI Agents
 - ⚡ Learning FastAPI
 - ☁️ AWS Cloud
 - 🏗️ System Design
-- ## 💻 Languages
+  ## 🛠️ Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
-</p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-## 📌 Featured Projects
+### 💻 Programming Languages
+- Python
+- Java
+- C
+- C++
+- JavaScript
+- SQL
+- R
+- HTML
+- CSS
 
+### 🌐 Web Development
+- React.js
+- Node.js
+- Express.js
+- MERN Stack
+- Bootstrap
+- FastAPI
+- REST APIs
+
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- TensorFlow
+- Keras
+- OpenCV
+
+### 🗄️ Databases
+- MongoDB
+- MySQL
+- Oracle Database
+
+### ☁️ Cloud & DevOps
+- AWS
+- Git
+- GitHub
+
+### 🛠️ Tools
+- Visual Studio Code
+- Postman
+- Jupyter Notebook
+- Google Colab
+
+### 📚 Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+- Problem Solving
+- System Design (Learning)
 ### 🤖 Enterprise AI Knowledge Assistant
 
 - LLM
@@ -63,14 +111,33 @@ Python • FastAPI • MERN Stack • LLMs • RAG • AI Agents
 
 - TensorFlow
 - React
-- ## 🏆 Certifications
+# 🏆 Certifications
 
-- ServiceNow Administration Fundamentals
-- Oracle AI Foundations
-- IBM SkillsBuild
-- SmartBridge
+- ✅ Salesforce Certified AI Associate (AI-201)
+- ✅ Oracle OCI 2024 AI Foundations & Generative AI Professional
+- ✅ MongoDB Associate Developer
+- ✅ Microsoft Certified Azure Fundamentals
+
 - ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=https://github.com/maibubhukya&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maibubhukya&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maibubhukya&theme=tokyonight)
+## 🎯 2026 Goals
+
+- ✅ Solve 600+ DSA Problems
+- ✅ Build 10 AI Projects
+- ✅ Master FastAPI
+- ✅ Learn AWS
+- ✅ Learn System Design
+- ✅ Crack AI Software Engineer Role
+- ## 🤝 Connect With Me
+
+[GitHub](https://github.com/maibubhukya)
+
+LinkedIn-https://www.linkedin.com/in/maibu-bhukya-034915343
+
+Email-bhukyamaibu98@gmail.com
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/maibubhukya/maibubhukya/output/github-contribution-grid-snake.svg)
