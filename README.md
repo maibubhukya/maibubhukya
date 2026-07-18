@@ -71,7 +71,6 @@ Python • FastAPI • MERN Stack • LLMs • RAG • AI Agents
 
 ### 🛠️ Tools
 - Visual Studio Code
-- Postman
 - Jupyter Notebook
 - Google Colab
 
@@ -88,29 +87,27 @@ Python • FastAPI • MERN Stack • LLMs • RAG • AI Agents
 - LLM
 - RAG
 - FastAPI
-- ChromaDB
-- LangChain
 
 ---
-
-### 🏥 AI Medical Chatbot
-
-- Retrieval Augmented Generation
-- PDF Search
-- FastAPI
-
----
+## 📌 Project Highlights
 
 ### 🏠 Real Estate Management System
+- Full Stack MERN application
+- JWT Authentication
+- Property Search
+- Booking Management
+- REST APIs
 
-- MERN Stack
-
----
-
-### 🌿 Leaf Disease Detection
-
+### 🌿 AI Leaf Disease Detection
+- Deep Learning
 - TensorFlow
-- React
+- Image Classification
+- Real-Time Prediction
+
+### ♻️ Smart Waste Management
+- Complaint Management
+- Responsive UI
+- Bootstrap
 # 🏆 Certifications
 
 - ✅ Salesforce Certified AI Associate (AI-201)
